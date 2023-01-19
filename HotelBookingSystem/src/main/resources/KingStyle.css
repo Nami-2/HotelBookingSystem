@@ -1,0 +1,4 @@
+.MainImage-container{
+    -fx-border-radius: 90%;
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0, 0, 6);
+}
